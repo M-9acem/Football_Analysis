@@ -44,5 +44,10 @@ The system also applies **KMeans clustering** to assign players to teams based o
 ## Video Walkthrough:
 Check out the full project walkthrough and explanation on YouTube:
 
+
 [YouTube Walkthrough](https://www.youtube.com/watch?v=XYZ](https://www.youtube.com/watch?v=neBZ6huolkg)
+
+
 Big thanks to @abdullahtarek
+
+[Output](https://drive.google.com/file/d/1A2Awe-SQNkoM9R0QV33SaM2fNE9toJ4U/view?usp=sharing)
