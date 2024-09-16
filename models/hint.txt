@@ -1,0 +1,1 @@
+After training the yolo model in google collab, the file best.pt should be put here!
