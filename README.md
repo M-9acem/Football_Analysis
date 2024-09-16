@@ -14,9 +14,8 @@ The system also applies **KMeans clustering** to assign players to teams based o
 5. **Speed & Distance Estimation:** Calculate player speed and distance covered based on real-world measurements.
    
 ## Datasets:
-- [Kaggle Football Dataset]([https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout/data?select=clips])
-- [Roboflow Football Dataset]([https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1])
-
+- [Kaggle Football Dataset](https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout/data?select=clips)
+- [Roboflow Football Dataset](https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1)
 ## Installation:
 1. Clone this repository:  
    ```bash
@@ -45,5 +44,5 @@ The system also applies **KMeans clustering** to assign players to teams based o
 ## Video Walkthrough:
 Check out the full project walkthrough and explanation on YouTube:
 
-[YouTube Walkthrough]([https://www.youtube.com/watch?v=XYZ](https://www.youtube.com/watch?v=neBZ6huolkg))
+[YouTube Walkthrough](https://www.youtube.com/watch?v=XYZ](https://www.youtube.com/watch?v=neBZ6huolkg)
 Big thanks to @abdullahtarek
